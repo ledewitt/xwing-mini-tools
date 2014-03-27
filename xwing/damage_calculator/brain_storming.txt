@@ -1,0 +1,15 @@
+The calculator needs to be able to run simulations as will as figure out true
+odds.
+
+Simulations first as Monte Carlo Simulations, to start.
+
+Need to load dice faces from the data file into an array for creation of sample
+roles.
+
+Average hits in the case of unmodified roles, roles modified with a target
+lock, a focus token, or both a target lock and a focus token.
+
+Average defensive evades in the case of unmodified roles, roles modified with
+a focus token.
+
+Nice to figure out either the Standard Deviation or quartiles maybe both.
