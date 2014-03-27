@@ -1,0 +1,17 @@
+The squad creator needs to load the card data from the data files.
+
+Maybe I should create a database that houses the cards informaiton instead
+of text data files.
+
+If I do this the individual squads of users can then also be saved in the
+database.
+
+The builder would need to calculate squad costs on the fly as the user
+changes the make of a squad.
+
+Calculation of meta data such as total life points (hull+shield) of all ships,
+total attack and defense dice of the squad.  Other data maybe something like
+average dice per attack or defense.
+
+The working environment will start out as a web service maybe a stand alone
+executable application later.
